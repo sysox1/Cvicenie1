@@ -1,6 +1,9 @@
 #include <iostream>
 
+int factorial(int n){
+    return n
+}
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+
+
 }
